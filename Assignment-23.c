@@ -8,4 +8,5 @@ int main() {
 	scanf("%lf",&exp);
 	double result=pow(base,exp);
 	printf("Result=%lf",result);
+	return 0;
 }
