@@ -20,4 +20,5 @@ int main() {
 		}
 	}
 	printf("The largest number is %d",max);
+	return 0;
 }
