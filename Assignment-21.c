@@ -22,4 +22,5 @@ int main() {
 		default:
 			printf("Error! Operator is incorrect");
 	}
+	retrun 0;
 }
