@@ -11,4 +11,5 @@ int main() {
 		result=result*base;
 	}
 	printf("Result=%lf",result);
+	return 0;
 }
